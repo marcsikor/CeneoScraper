@@ -2,8 +2,8 @@
 
 # analiza struktury opiniii w serwisie ceneo.pl
 
-skladowa | selektor | zmienna
------------------------------
+skladowa | selektor | zmienna |
+---------|----------|---------|
 |opinia|div.js_produck-review|review|
 |identyfikator opinii|\[data-entry-id\]|id|
 |autor|.user-post__autor-name|author|
